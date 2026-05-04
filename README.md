@@ -2,6 +2,8 @@
 
 A comprehensive Power BI dashboard analyzing sales performance, profitability, and operational efficiency across a multi-year e-commerce dataset. Built to identify revenue drivers, pinpoint margin leakage, and guide strategic decision-making.
 
+![Overview Dashboard](https://github.com/nyobel/e-commerce_sales_analytics_and_reporting/blob/main/Dashboard%20Images/Overview.png?raw=true)
+
 ## 🎯 Project Overview
 
 This dashboard transforms 9,994 transaction records (2014-2017) into actionable insights across four key dimensions:
@@ -36,6 +38,8 @@ This dashboard transforms 9,994 transaction records (2014-2017) into actionable 
 ### 2️⃣ Product Analysis
 **Purpose**: Identify profitable vs. loss-making products and optimize assortment
 
+![Overview Dashboard](https://github.com/nyobel/e-commerce_sales_analytics_and_reporting/blob/main/Dashboard%20Images/product_analysis.png?raw=true)
+
 **Visualizations**:
 - Profit by sub-category (17 categories ranked)
 - Sales volume distribution
@@ -53,6 +57,8 @@ This dashboard transforms 9,994 transaction records (2014-2017) into actionable 
 ### 3️⃣ Regional Analysis
 **Purpose**: Compare regional performance and identify operational inefficiencies
 
+![Overview Dashboard](https://github.com/nyobel/e-commerce_sales_analytics_and_reporting/blob/main/Dashboard%20Images/regional_analysis.png?raw=true)
+
 **Metrics Tracked**:
 - Sales vs. profit by region
 - Discount rate % (normalized metric)
@@ -66,6 +72,8 @@ This dashboard transforms 9,994 transaction records (2014-2017) into actionable 
 
 ### 4️⃣ Customer Analysis
 **Purpose**: Segment customers by value and profitability
+
+![Overview Dashboard](https://github.com/nyobel/e-commerce_sales_analytics_and_reporting/blob/main/Dashboard%20Images/customer_analysis.png?raw=true)
 
 **Visualizations**:
 - Scatter plot: Sales (X) vs. Profit (Y) with segment color-coding
